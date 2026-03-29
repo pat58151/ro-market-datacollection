@@ -1,0 +1,2880 @@
+{
+  "creative meteorite fragment__thor": [
+    {
+      "timestamp": "2025-10-20T00:04:54.459126",
+      "average": 5522.6,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429507142947442748
+    },
+    {
+      "timestamp": "2025-10-20T16:20:38.843274",
+      "average": 5254.4,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429761213356838922
+    },
+    {
+      "timestamp": "2025-10-20T22:44:45.705968",
+      "average": 5149.666666666667,
+      "recorded_by": "axlzzz",
+      "user_id": "317691652611506186",
+      "message_id": 1429857884488994908
+    },
+    {
+      "timestamp": "2025-10-21T12:02:31.695471",
+      "average": 4962.0,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1430058641670537226
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1430213185910214688,
+      "timestamp": "2025-10-21T15:17:00.425327+00:00",
+      "average": 4683
+    }
+  ],
+  "blacksmith blessing__thor": [
+    {
+      "timestamp": "2025-10-20T00:06:14.557691",
+      "average": 8396666.666666666,
+      "recorded_by": "axlzzz",
+      "user_id": "317691652611506186",
+      "message_id": 1429507052354539640
+    },
+    {
+      "timestamp": "2025-10-20T18:08:03.768459",
+      "average": 7977977.8,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429788247072182463
+    },
+    {
+      "timestamp": "2025-10-21T12:01:08.494693",
+      "average": 7893899.8,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1430058294055014411
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1432730247174029372,
+      "timestamp": "2025-10-28T13:58:28.511243+00:00",
+      "average": 8444800
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1442151792627421194,
+      "timestamp": "2025-11-23T13:56:22.155686+00:00",
+      "average": 8749000
+    }
+  ],
+  "clock gear__thor": [
+    {
+      "timestamp": "2025-10-20T00:06:42.645936",
+      "average": 14963.333333333334,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429504995098886204
+    },
+    {
+      "timestamp": "2025-10-20T22:45:14.035698",
+      "average": 14655.2,
+      "recorded_by": "axlzzz",
+      "user_id": "317691652611506186",
+      "message_id": 1429858003275878551
+    },
+    {
+      "timestamp": "2025-10-21T12:04:52.153235",
+      "average": 14657.4,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1430059232249643069
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1430215255765815417,
+      "timestamp": "2025-10-21T15:26:56.681460+00:00",
+      "average": 14957
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1446386971860795433,
+      "timestamp": "2025-12-05T06:25:27.071327+00:00",
+      "average": 87321
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1447242748389363916,
+      "timestamp": "2025-12-07T18:00:50.535150+00:00",
+      "average": 91666
+    }
+  ],
+  "stamina meteorite fragment__thor": [
+    {
+      "timestamp": "2025-10-20T16:23:38.861513",
+      "average": 1049999.6666666667,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429761970076258324
+    },
+    {
+      "timestamp": "2025-10-20T22:42:35.271262",
+      "average": 1299994.5,
+      "recorded_by": "axlzzz",
+      "user_id": "317691652611506186",
+      "message_id": 1429857337681903667
+    },
+    {
+      "timestamp": "2025-10-21T12:04:18.701965",
+      "average": 1304975.0,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1430059091467964426
+    },
+    {
+      "timestamp": "2025-10-21T17:37:55.257101",
+      "average": 905599.8,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429761823527141446
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1430213927723077773,
+      "timestamp": "2025-10-21T15:19:32.786469+00:00",
+      "average": 1137500
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1431324084288884837,
+      "timestamp": "2025-10-24T16:50:54.293490+00:00",
+      "average": 839999
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1431499132849098864,
+      "timestamp": "2025-10-25T04:29:23.388807+00:00",
+      "average": 816940
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1432391983443476594,
+      "timestamp": "2025-10-27T15:34:28.705400+00:00",
+      "average": 2610
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1432730604117561535,
+      "timestamp": "2025-10-28T13:59:53.380483+00:00",
+      "average": 795800
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1433467230527688715,
+      "timestamp": "2025-10-30T20:10:44.767198+00:00",
+      "average": 752355
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1436387604118634600,
+      "timestamp": "2025-11-08T02:48:06.565822+00:00",
+      "average": 533333
+    }
+  ],
+  "spell meteorite fragment__thor": [
+    {
+      "timestamp": "2025-10-20T00:07:12.684504",
+      "average": 1081646.3333333333,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429504576435912757
+    },
+    {
+      "timestamp": "2025-10-20T16:29:16.521807",
+      "average": 1216724.75,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429763385221845013
+    },
+    {
+      "timestamp": "2025-10-20T16:30:05.981852",
+      "average": 1216724.75,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429763593393672373
+    },
+    {
+      "timestamp": "2025-10-20T16:54:38.849370",
+      "average": 1473379.8,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429762115039658114
+    },
+    {
+      "timestamp": "2025-10-20T22:41:49.188935",
+      "average": 2168749.75,
+      "recorded_by": "axlzzz",
+      "user_id": "317691652611506186",
+      "message_id": 1429857144299196466
+    },
+    {
+      "timestamp": "2025-10-21T12:04:33.883493",
+      "average": 2016222.2,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1430059155993006161
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1430214353956896790,
+      "timestamp": "2025-10-21T15:22:34.529948+00:00",
+      "average": 1347500
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1431191961037180938,
+      "timestamp": "2025-10-24T08:06:06.947396+00:00",
+      "average": 1125000
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1431324005943611555,
+      "timestamp": "2025-10-24T16:50:35.489396+00:00",
+      "average": 989994
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1431500198294716506,
+      "timestamp": "2025-10-25T04:30:43.479995+00:00",
+      "average": 990000
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1432392177857855498,
+      "timestamp": "2025-10-27T15:35:07.912428+00:00",
+      "average": 981362
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1432730667967316111,
+      "timestamp": "2025-10-28T14:00:08.529980+00:00",
+      "average": 979250
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1433467054429573322,
+      "timestamp": "2025-10-30T20:10:46.755843+00:00",
+      "average": 900000
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1436387700667322429,
+      "timestamp": "2025-11-08T02:48:04.412579+00:00",
+      "average": 809400
+    }
+  ],
+  "power meteorite fragment__thor": [
+    {
+      "timestamp": "2025-10-20T00:07:26.807620",
+      "average": 187500.0,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429504497268559932
+    },
+    {
+      "timestamp": "2025-10-20T16:22:25.365090",
+      "average": 178472.0,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429761660402270290
+    },
+    {
+      "timestamp": "2025-10-20T22:43:16.812429",
+      "average": 173833.33333333334,
+      "recorded_by": "axlzzz",
+      "user_id": "317691652611506186",
+      "message_id": 1429857511053332513
+    },
+    {
+      "timestamp": "2025-10-21T12:03:41.922044",
+      "average": 174699.8,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1430058937947918356
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1430214841163055175,
+      "timestamp": "2025-10-21T15:26:57.766873+00:00",
+      "average": 161500
+    }
+  ],
+  "wisdom meteorite fragment__thor": [
+    {
+      "timestamp": "2025-10-20T00:07:34.941262",
+      "average": 89122.0,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429504324777541782
+    },
+    {
+      "timestamp": "2025-10-20T16:21:25.759197",
+      "average": 87796.75,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429761411478851725
+    },
+    {
+      "timestamp": "2025-10-20T22:44:24.375320",
+      "average": 78666.0,
+      "recorded_by": "axlzzz",
+      "user_id": "317691652611506186",
+      "message_id": 1429857795544580116
+    },
+    {
+      "timestamp": "2025-10-21T12:03:10.731928",
+      "average": 76239.8,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1430058805432946698
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1430214580038013068,
+      "timestamp": "2025-10-21T15:26:59.013726+00:00",
+      "average": 69989
+    }
+  ],
+  "shadowdecon__thor": [
+    {
+      "timestamp": "2025-10-20T00:07:47.487246",
+      "average": 69599.8,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429466390926069902
+    },
+    {
+      "timestamp": "2025-10-20T15:00:30.870660",
+      "average": 66972.25,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429741047218438246
+    },
+    {
+      "timestamp": "2025-10-20T22:46:27.221540",
+      "average": 67720.0,
+      "recorded_by": "axlzzz",
+      "user_id": "317691652611506186",
+      "message_id": 1429858310366040075
+    },
+    {
+      "timestamp": "2025-10-21T11:57:24.237620",
+      "average": 69242.5,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1430057349149626438
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1430212792161534054,
+      "timestamp": "2025-10-21T15:17:01.007480+00:00",
+      "average": 70198
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1430783495286030446,
+      "timestamp": "2025-10-23T05:02:48.363779+00:00",
+      "average": 66875
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1430939568693313536,
+      "timestamp": "2025-10-23T15:22:58.817893+00:00",
+      "average": 73300
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1431127771865681970,
+      "timestamp": "2025-10-24T03:50:50.354619+00:00",
+      "average": 69898
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1431661419949981830,
+      "timestamp": "2025-10-25T15:11:21.277728+00:00",
+      "average": 53580
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1431673073056354325,
+      "timestamp": "2025-10-25T15:57:38.440084+00:00",
+      "average": 50500.0
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1431681440919195819,
+      "timestamp": "2025-10-25T16:31:01.594453+00:00",
+      "average": 63475
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1431906835123802205,
+      "timestamp": "2025-10-26T07:26:33.571286+00:00",
+      "average": 64058
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1432046499004547162,
+      "timestamp": "2025-10-26T16:41:29.949573+00:00",
+      "average": 57500
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1432406873109299423,
+      "timestamp": "2025-10-27T16:33:31.397666+00:00",
+      "average": 54998
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1432663053215731723,
+      "timestamp": "2025-10-28T09:31:28.791550+00:00",
+      "average": 54473
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1433012519278084166,
+      "timestamp": "2025-10-29T08:40:08.966926+00:00",
+      "average": 51467
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1433277859685859458,
+      "timestamp": "2025-10-30T02:14:42.241134+00:00",
+      "average": 53870
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1433372763258749009,
+      "timestamp": "2025-10-30T08:31:44.848609+00:00",
+      "average": 52980
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1433834320723837030,
+      "timestamp": "2025-10-31T15:05:40.948402+00:00",
+      "average": 51928
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1433976684520145161,
+      "timestamp": "2025-11-01T00:32:01.949580+00:00",
+      "average": 52998
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1434489275797475420,
+      "timestamp": "2025-11-02T10:28:14.354838+00:00",
+      "average": 54756
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1434893995552542751,
+      "timestamp": "2025-11-03T13:16:38.135457+00:00",
+      "average": 52600
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1436715650717454406,
+      "timestamp": "2025-11-08T13:55:05.688952+00:00",
+      "average": 73540
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1438462640866328576,
+      "timestamp": "2025-11-13T09:37:00.868410+00:00",
+      "average": 66200
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1438919856320811180,
+      "timestamp": "2025-11-14T15:53:48.013472+00:00",
+      "average": 61802
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1439899592861810739,
+      "timestamp": "2025-11-17T08:47:08.238156+00:00",
+      "average": 61088
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1441710380627001454,
+      "timestamp": "2025-11-22T08:42:32.483641+00:00",
+      "average": 59930
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1442151609491521697,
+      "timestamp": "2025-11-23T13:55:49.676542+00:00",
+      "average": 61298
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1444414729563934813,
+      "timestamp": "2025-11-29T19:48:37.497545+00:00",
+      "average": 60720
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1445385143492542475,
+      "timestamp": "2025-12-02T12:04:31.530087+00:00",
+      "average": 53500.0
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1447478725410164778,
+      "timestamp": "2025-12-08T06:43:50.329887+00:00",
+      "average": 35745
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1464929880910205069,
+      "timestamp": "2026-01-25T10:28:32.733234+00:00",
+      "average": 32595
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1472181804437082152,
+      "timestamp": "2026-02-14T10:45:05.992414+00:00",
+      "average": 43375
+    }
+  ],
+  "shadowdecon__chaos": [
+    {
+      "timestamp": "2025-10-20T00:08:00.653573",
+      "average": 58879.6,
+      "recorded_by": "kabernam",
+      "user_id": "219094309385797632",
+      "message_id": 1429404524627361863
+    },
+    {
+      "timestamp": "2025-10-20T01:38:26.684568",
+      "average": 62590.0,
+      "recorded_by": "kabernam",
+      "user_id": "219094309385797632",
+      "message_id": 1429539203850436718
+    },
+    {
+      "timestamp": "2025-10-20T14:05:55.700828",
+      "average": 60269.6,
+      "recorded_by": "kabernam",
+      "user_id": "219094309385797632",
+      "message_id": 1429724814481948702
+    },
+    {
+      "timestamp": "2025-10-21T00:40:44.276347",
+      "average": 56662.0,
+      "recorded_by": "kabernam",
+      "user_id": "219094309385797632",
+      "message_id": 1429887070331207832
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1430153270298677268,
+      "timestamp": "2025-10-21T13:07:40.994504+00:00",
+      "average": 57814
+    },
+    {
+      "user_id": "321305548618334211",
+      "recorded_by": "MR-Striper",
+      "message_id": 1430497502984929290,
+      "timestamp": "2025-10-22T10:06:32.439516+00:00",
+      "average": 58668
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1430726100501135380,
+      "timestamp": "2025-10-23T02:17:53.980069+00:00",
+      "average": 57800
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1430989248097554535,
+      "timestamp": "2025-10-24T03:47:55.958098+00:00",
+      "average": 56540
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1431262248239759494,
+      "timestamp": "2025-10-24T12:45:48.856943+00:00",
+      "average": 56891
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1431659162617643128,
+      "timestamp": "2025-10-25T15:02:34.323890+00:00",
+      "average": 51180
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1432042422661025823,
+      "timestamp": "2025-10-26T16:25:18.102260+00:00",
+      "average": 64000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1432242557324361728,
+      "timestamp": "2025-10-27T05:40:47.292699+00:00",
+      "average": 52060
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1432388473607946426,
+      "timestamp": "2025-10-27T15:20:35.997824+00:00",
+      "average": 60555
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1432729300649512960,
+      "timestamp": "2025-10-28T13:54:54.218853+00:00",
+      "average": 51082
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1432973280972898465,
+      "timestamp": "2025-10-29T06:04:14.228685+00:00",
+      "average": 49617
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1433361433692737598,
+      "timestamp": "2025-10-30T08:22:22.746153+00:00",
+      "average": 46278
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1433685729875329105,
+      "timestamp": "2025-10-31T05:15:16.605571+00:00",
+      "average": 43463
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1434485606293180446,
+      "timestamp": "2025-11-02T10:28:11.826800+00:00",
+      "average": 43826
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1435259170160119820,
+      "timestamp": "2025-11-04T13:27:42.935358+00:00",
+      "average": 49949
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1435990508181913640,
+      "timestamp": "2025-11-06T14:00:56.633375+00:00",
+      "average": 61299
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1436543646940795075,
+      "timestamp": "2025-11-08T02:47:54.751962+00:00",
+      "average": 71700
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1436707933281980426,
+      "timestamp": "2025-11-08T13:24:24.732559+00:00",
+      "average": 74797
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1437058711670624338,
+      "timestamp": "2025-11-09T13:34:05.197834+00:00",
+      "average": 68000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438838382863187968,
+      "timestamp": "2025-11-14T10:30:03.108568+00:00",
+      "average": 63278
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439628526096748634,
+      "timestamp": "2025-11-16T14:49:46.853962+00:00",
+      "average": 58374
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440255200572211311,
+      "timestamp": "2025-11-18T08:25:32.670118+00:00",
+      "average": 57492
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440786757074555062,
+      "timestamp": "2025-11-19T19:32:11.235984+00:00",
+      "average": 56300.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1445393125291069631,
+      "timestamp": "2025-12-02T12:36:27.161434+00:00",
+      "average": 48758
+    },
+    {
+      "user_id": "437502553362661381",
+      "recorded_by": "LikeToKiLL",
+      "message_id": 1446067355959558297,
+      "timestamp": "2025-12-04T09:15:35.930146+00:00",
+      "average": 31598
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1482573236121108570,
+      "timestamp": "2026-03-21T08:45:44.550569+00:00",
+      "average": 12758
+    }
+  ],
+  "unknown watch (hyper novice)__thor": [
+    {
+      "timestamp": "2025-10-20T00:43:42.328214",
+      "average": 3046388.25,
+      "recorded_by": "axlzzz",
+      "user_id": "317691652611506186",
+      "message_id": 1429523575496376330
+    }
+  ],
+  "unknown watch (hyper novice magic)__thor": [
+    {
+      "timestamp": "2025-10-20T01:03:46.462617",
+      "average": 168750000.0,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429530481833152582
+    }
+  ],
+  "(hyper novice magic)__thor": [],
+  "powerful dimensional essence__thor": [
+    {
+      "timestamp": "2025-10-20T01:02:40.038168",
+      "average": 87249999.75,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429530198436479049
+    },
+    {
+      "timestamp": "2025-10-21T12:09:31.864835",
+      "average": 90000000.0,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1430060406315155466
+    }
+  ],
+  "death rune__chaos": [
+    {
+      "timestamp": "2025-10-20T01:39:40.814229",
+      "average": 262699.8,
+      "recorded_by": "kabernam",
+      "user_id": "219094309385797632",
+      "message_id": 1429539514539311294
+    },
+    {
+      "timestamp": "2025-10-20T15:20:23.090706",
+      "average": 247699.8,
+      "recorded_by": "kabernam",
+      "user_id": "219094309385797632",
+      "message_id": 1429746047625859173
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1430725877368623197,
+      "timestamp": "2025-10-23T02:17:54.997075+00:00",
+      "average": 71111
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1431293998743421050,
+      "timestamp": "2025-10-24T14:51:24.598725+00:00",
+      "average": 69980
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1431864996257730600,
+      "timestamp": "2025-10-26T04:40:18.128811+00:00",
+      "average": 174000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1432729660151566398,
+      "timestamp": "2025-10-28T13:56:08.806096+00:00",
+      "average": 183333
+    },
+    {
+      "user_id": "437502553362661381",
+      "recorded_by": "LikeToKiLL",
+      "message_id": 1432786019417329794,
+      "timestamp": "2025-10-29T02:52:55.523556+00:00",
+      "average": 95000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1432972675793424515,
+      "timestamp": "2025-10-29T06:01:49.552784+00:00",
+      "average": 175000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1433361176120524811,
+      "timestamp": "2025-10-30T07:45:34.926522+00:00",
+      "average": 400000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1435259380181500027,
+      "timestamp": "2025-11-04T13:28:31.462449+00:00",
+      "average": 179800
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1436764073462333623,
+      "timestamp": "2025-11-08T17:07:29.016041+00:00",
+      "average": 143000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440786921843331223,
+      "timestamp": "2025-11-19T19:32:51.255469+00:00",
+      "average": 381533
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1457617167729168398,
+      "timestamp": "2026-01-05T06:10:13.970321+00:00",
+      "average": 393333
+    }
+  ],
+  "zeny__chaos": [
+    {
+      "timestamp": "2025-10-20T01:55:16.119699",
+      "average": 7.5,
+      "recorded_by": "kabernam",
+      "user_id": "219094309385797632",
+      "message_id": 1429543441565749410
+    },
+    {
+      "timestamp": "2025-10-20T15:21:36.286137",
+      "average": 7.5,
+      "recorded_by": "kabernam",
+      "user_id": "219094309385797632",
+      "message_id": 1429746358906261587
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1437284203224895592,
+      "timestamp": "2025-11-10T08:53:25.352689+00:00",
+      "average": 8.2
+    }
+  ],
+  "blacksmith blessing__chaos": [
+    {
+      "timestamp": "2025-10-20T15:17:52.364799",
+      "average": 6809777.4,
+      "recorded_by": "kabernam",
+      "user_id": "219094309385797632",
+      "message_id": 1429745409311375583
+    },
+    {
+      "timestamp": "2025-10-21T00:41:58.615457",
+      "average": 6474750.0,
+      "recorded_by": "kabernam",
+      "user_id": "219094309385797632",
+      "message_id": 1429887383574151309
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1436766605529976872,
+      "timestamp": "2025-11-09T13:34:07.892245+00:00",
+      "average": 8683978
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1457618487060070548,
+      "timestamp": "2026-01-05T06:15:28.575917+00:00",
+      "average": 4129280
+    }
+  ],
+  "silvervine__chaos": [
+    {
+      "timestamp": "2025-10-20T15:19:15.949699",
+      "average": 9239998.4,
+      "recorded_by": "kabernam",
+      "user_id": "219094309385797632",
+      "message_id": 1429745764799877223
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1430244095770492928,
+      "timestamp": "2025-10-21T17:19:32.246725+00:00",
+      "average": 9277000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1436764924541141023,
+      "timestamp": "2025-11-08T17:10:51.795087+00:00",
+      "average": 9200000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438837932227297344,
+      "timestamp": "2025-11-14T10:28:25.852292+00:00",
+      "average": 8450299
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439161451276271626,
+      "timestamp": "2025-11-15T07:53:49.037147+00:00",
+      "average": 8340000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439628236098113557,
+      "timestamp": "2025-11-16T14:48:37.770046+00:00",
+      "average": 8596988
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440255022305640509,
+      "timestamp": "2025-11-18T08:25:36.705515+00:00",
+      "average": 8537200
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440786604720525485,
+      "timestamp": "2025-11-19T19:31:34.914141+00:00",
+      "average": 8549000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1441053558094172294,
+      "timestamp": "2025-11-20T13:12:21.122431+00:00",
+      "average": 8397900.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1443483641966760008,
+      "timestamp": "2025-11-27T08:57:11.919271+00:00",
+      "average": 8280000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1465906688191107073,
+      "timestamp": "2026-01-28T03:10:40.675194+00:00",
+      "average": 12998000
+    }
+  ],
+  "concentration meteorite fragment__thor": [
+    {
+      "timestamp": "2025-10-20T16:21:57.256802",
+      "average": 135800.0,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429761542479417426
+    },
+    {
+      "timestamp": "2025-10-20T22:43:47.706162",
+      "average": 166330.0,
+      "recorded_by": "axlzzz",
+      "user_id": "317691652611506186",
+      "message_id": 1429857641995305131
+    },
+    {
+      "timestamp": "2025-10-21T12:03:25.629482",
+      "average": 165599.6,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1430058868452495442
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1430216254169284639,
+      "timestamp": "2025-10-21T15:28:54.351153+00:00",
+      "average": 157972
+    }
+  ],
+  "etel dust__thor": [
+    {
+      "timestamp": "2025-10-20T22:46:54.674753",
+      "average": 5379.4,
+      "recorded_by": "axlzzz",
+      "user_id": "317691652611506186",
+      "message_id": 1429858426208522423
+    },
+    {
+      "timestamp": "2025-10-21T12:00:49.468344",
+      "average": 5546.0,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1430058213524504606
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1430249980064436457,
+      "timestamp": "2025-10-21T17:42:57.526492+00:00",
+      "average": 5555
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1430784762154324070,
+      "timestamp": "2025-10-23T05:07:50.551321+00:00",
+      "average": 8120
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1432730296016437492,
+      "timestamp": "2025-10-28T13:58:40.947402+00:00",
+      "average": 6458
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1433277918745989141,
+      "timestamp": "2025-10-30T02:14:45.543523+00:00",
+      "average": 6666
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1434894068567113849,
+      "timestamp": "2025-11-03T13:16:45.496488+00:00",
+      "average": 7447
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1464929968315437126,
+      "timestamp": "2026-01-25T10:28:41.616998+00:00",
+      "average": 11792
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1472182164379402271,
+      "timestamp": "2026-02-14T10:46:19.686390+00:00",
+      "average": 13000.0
+    }
+  ],
+  "mysterious medal__thor": [
+    {
+      "timestamp": "2025-10-20T22:47:58.466352",
+      "average": 9845.0,
+      "recorded_by": "axlzzz",
+      "user_id": "317691652611506186",
+      "message_id": 1429858692781707405
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1430215635211911328,
+      "timestamp": "2025-10-21T15:26:56.131699+00:00",
+      "average": 10000
+    }
+  ],
+  "corrupted wanderer card__thor": [
+    {
+      "timestamp": "2025-10-20T22:49:31.304813",
+      "average": 20800000.0,
+      "recorded_by": "axlzzz",
+      "user_id": "317691652611506186",
+      "message_id": 1429859083154100337
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1430220665088245881,
+      "timestamp": "2025-10-21T15:46:26.048365+00:00",
+      "average": 19750000
+    }
+  ],
+  "temporal spell__thor": [
+    {
+      "timestamp": "2025-10-20T22:50:05.693857",
+      "average": 13858.0,
+      "recorded_by": "axlzzz",
+      "user_id": "317691652611506186",
+      "message_id": 1429859227274313728
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1430215136219496551,
+      "timestamp": "2025-10-21T15:26:57.222653+00:00",
+      "average": 13298
+    }
+  ],
+  "powerful dimension fragment__thor": [
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1430060088378396814,
+      "timestamp": "2025-10-21T13:07:42.034256+00:00",
+      "average": 90000000
+    }
+  ],
+  "intelligence material (mystical pass)__thor": [
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1430215968671662202,
+      "timestamp": "2025-10-21T15:27:39.352290+00:00",
+      "average": 95170
+    }
+  ],
+  "old card album__thor": [
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1430232485811191809,
+      "timestamp": "2025-10-21T16:33:23.948615+00:00",
+      "average": 113600
+    }
+  ],
+  "spend promotion box 3__thor": [
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1430250599177392159,
+      "timestamp": "2025-10-21T17:45:22.525128+00:00",
+      "average": 2662563
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1430786148485300234,
+      "timestamp": "2025-10-23T05:13:20.543184+00:00",
+      "average": 2599950
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1431694242375401512,
+      "timestamp": "2025-10-25T17:21:54.175792+00:00",
+      "average": 2459267
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1431880569989496915,
+      "timestamp": "2025-10-26T05:42:35.483606+00:00",
+      "average": 2456333
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1432730803850317894,
+      "timestamp": "2025-10-28T14:00:40.906913+00:00",
+      "average": 2188500
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1433277998265663498,
+      "timestamp": "2025-10-30T02:15:05.145053+00:00",
+      "average": 2135398
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1433685277804728403,
+      "timestamp": "2025-10-31T05:13:38.086751+00:00",
+      "average": 2113638
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1444414983722111068,
+      "timestamp": "2025-11-29T19:49:37.018694+00:00",
+      "average": 4081200
+    }
+  ],
+  "death rune__thor": [
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1430560995507703859,
+      "timestamp": "2025-10-22T17:11:36.073466+00:00",
+      "average": 89333
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1430814856340312174,
+      "timestamp": "2025-10-23T10:03:53.392234+00:00",
+      "average": 145000
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1431501851462860800,
+      "timestamp": "2025-10-25T04:37:17.594427+00:00",
+      "average": 189900
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1431886267284717668,
+      "timestamp": "2025-10-26T06:05:00.311326+00:00",
+      "average": 137800
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1432279355609841694,
+      "timestamp": "2025-10-27T08:06:58.276937+00:00",
+      "average": 169800
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1432730398424694814,
+      "timestamp": "2025-10-28T13:59:04.599393+00:00",
+      "average": 135333
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1432815593882521640,
+      "timestamp": "2025-10-29T02:52:54.388601+00:00",
+      "average": 117778
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1433467350912602254,
+      "timestamp": "2025-10-30T20:10:42.871207+00:00",
+      "average": 111250
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1434894210917732352,
+      "timestamp": "2025-11-03T13:17:18.638873+00:00",
+      "average": 135000
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1436387911670038672,
+      "timestamp": "2025-11-08T02:48:02.193353+00:00",
+      "average": 140000
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1446387260923580457,
+      "timestamp": "2025-12-05T06:26:36.751093+00:00",
+      "average": 283800
+    }
+  ],
+  "gray shard__thor": [
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1430559861644460074,
+      "timestamp": "2025-10-22T17:11:37.803146+00:00",
+      "average": 16800
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1431317564855681145,
+      "timestamp": "2025-10-24T16:25:11.081981+00:00",
+      "average": 16769
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1431500470509371522,
+      "timestamp": "2025-10-25T04:31:48.689679+00:00",
+      "average": 16979
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1432071716456235028,
+      "timestamp": "2025-10-26T18:22:17.159625+00:00",
+      "average": 11800
+    }
+  ],
+  "enchant ticket__thor": [
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1431504018320134255,
+      "timestamp": "2025-10-25T04:45:54.103544+00:00",
+      "average": 87000000
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1433467468306714765,
+      "timestamp": "2025-10-30T20:10:40.167034+00:00",
+      "average": 79300000
+    }
+  ],
+  "ice rune__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1431864191962316991,
+      "timestamp": "2025-10-26T04:37:06.325480+00:00",
+      "average": 60000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1432972518876119051,
+      "timestamp": "2025-10-29T06:01:11.478511+00:00",
+      "average": 85000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1436764205050237020,
+      "timestamp": "2025-11-08T17:08:00.312370+00:00",
+      "average": 162867
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440256590329675858,
+      "timestamp": "2025-11-18T08:25:30.775902+00:00",
+      "average": 99000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440787024734064670,
+      "timestamp": "2025-11-19T19:33:15.059547+00:00",
+      "average": 140000.0
+    }
+  ],
+  "etel dust__debug": [
+    {
+      "user_id": "321305548618334211",
+      "recorded_by": "MR-Striper",
+      "message_id": 1432641147041349683,
+      "timestamp": "2025-10-28T08:04:34.446421+00:00",
+      "average": 3540
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1472181892085190676,
+      "timestamp": "2026-02-14T10:45:15.414238+00:00",
+      "average": 2972
+    }
+  ],
+  "etel dust__chaos": [
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1432641808294477916,
+      "timestamp": "2025-10-28T08:07:03.317802+00:00",
+      "average": 4400.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1436764671112642694,
+      "timestamp": "2025-11-08T17:09:51.294399+00:00",
+      "average": 5479
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1458063427405611275,
+      "timestamp": "2026-01-06T14:22:14.907387+00:00",
+      "average": 38400
+    },
+    {
+      "user_id": "321305548618334211",
+      "recorded_by": "MR-Striper",
+      "message_id": 1472817120260657162,
+      "timestamp": "2026-02-16T11:30:02.343308+00:00",
+      "average": 14000.0
+    }
+  ],
+  "ice rune__debug": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1432971746868465785,
+      "timestamp": "2025-10-29T05:58:07.928727+00:00",
+      "average": 50000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1432971937507967007,
+      "timestamp": "2025-10-29T05:58:53.464818+00:00",
+      "average": 50000
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1441479657529675776,
+      "timestamp": "2025-11-21T17:25:31.051289+00:00",
+      "average": 95000
+    }
+  ],
+  "flame rune__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1432972909193855036,
+      "timestamp": "2025-10-29T06:02:45.591384+00:00",
+      "average": 99000
+    }
+  ],
+  "shadowdecon__debug": [
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1432046985451667496,
+      "timestamp": "2025-10-26T16:43:26.168946+00:00",
+      "average": 8643700
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1433364438995697664,
+      "timestamp": "2025-10-30T07:58:32.842951+00:00",
+      "average": 46000.0
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1433372118015410328,
+      "timestamp": "2025-10-30T08:29:04.634667+00:00",
+      "average": 52980
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1433373429058371615,
+      "timestamp": "2025-10-30T08:34:27.970677+00:00",
+      "average": 52980
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1433554114167705795,
+      "timestamp": "2025-10-30T20:32:16.100260+00:00",
+      "average": 2113638
+    }
+  ],
+  "ice rune__thor": [
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1433834555445608568,
+      "timestamp": "2025-10-31T15:06:36.770424+00:00",
+      "average": 70798
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1434894306329497710,
+      "timestamp": "2025-11-03T13:17:40.770088+00:00",
+      "average": 69200
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1441479880309997568,
+      "timestamp": "2025-11-21T17:26:24.393986+00:00",
+      "average": 203333
+    }
+  ],
+  "alice's apron__thor": [
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1436388844898357378,
+      "timestamp": "2025-11-08T02:47:56.729298+00:00",
+      "average": 46333
+    }
+  ],
+  "dungeon essence__thor": [
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1436388225894711358,
+      "timestamp": "2025-11-08T02:48:00.303400+00:00",
+      "average": 673400
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1436715729721360436,
+      "timestamp": "2025-11-08T13:55:23.762935+00:00",
+      "average": 559400
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1437447496413610133,
+      "timestamp": "2025-11-10T14:23:22.301314+00:00",
+      "average": 667900
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1438462471110131724,
+      "timestamp": "2025-11-13T09:36:20.561730+00:00",
+      "average": 294000
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1438541902499811429,
+      "timestamp": "2025-11-13T14:57:34.285193+00:00",
+      "average": 277250
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1438918428931915987,
+      "timestamp": "2025-11-14T15:48:07.541746+00:00",
+      "average": 247600
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1439282974142234654,
+      "timestamp": "2025-11-15T15:56:40.683806+00:00",
+      "average": 195800
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1439899882071654434,
+      "timestamp": "2025-11-17T08:48:05.537038+00:00",
+      "average": 178155
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1439989570791014603,
+      "timestamp": "2025-11-17T14:44:27.244533+00:00",
+      "average": 175398
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1440352960382238721,
+      "timestamp": "2025-11-18T14:50:27.771298+00:00",
+      "average": 149580
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1441710444107792474,
+      "timestamp": "2025-11-22T08:42:37.329159+00:00",
+      "average": 125539
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1442151683177316433,
+      "timestamp": "2025-11-23T13:55:56.517824+00:00",
+      "average": 101990
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1451580757720956949,
+      "timestamp": "2025-12-20T04:26:37.421075+00:00",
+      "average": 191580
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1452220596933890110,
+      "timestamp": "2026-01-05T02:13:17.068289+00:00",
+      "average": 269639
+    }
+  ],
+  "dungeon essence__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1436548247358406676,
+      "timestamp": "2025-11-08T02:49:52.373718+00:00",
+      "average": 530511
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440255636334968895,
+      "timestamp": "2025-11-18T08:25:27.675744+00:00",
+      "average": 193978
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440787186365632643,
+      "timestamp": "2025-11-19T19:33:53.581558+00:00",
+      "average": 140000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1457617314307506360,
+      "timestamp": "2026-01-05T06:10:49.133408+00:00",
+      "average": 224559
+    }
+  ],
+  "spend promotion box 3__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1436764338324115489,
+      "timestamp": "2025-11-08T17:08:32.067666+00:00",
+      "average": 2887917
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438838575377416192,
+      "timestamp": "2025-11-14T10:30:48.860551+00:00",
+      "average": 2958777
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439161565797417002,
+      "timestamp": "2025-11-15T07:54:16.045970+00:00",
+      "average": 3666666
+    },
+    {
+      "user_id": "321305548618334211",
+      "recorded_by": "MR-Striper",
+      "message_id": 1439278328669409522,
+      "timestamp": "2025-11-15T15:38:16.825413+00:00",
+      "average": 3767989
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439628357728731267,
+      "timestamp": "2025-11-16T14:49:06.679388+00:00",
+      "average": 3593551
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440255088328446033,
+      "timestamp": "2025-11-18T08:25:34.653098+00:00",
+      "average": 3557119
+    },
+    {
+      "user_id": "321305548618334211",
+      "recorded_by": "MR-Striper",
+      "message_id": 1440608858958594149,
+      "timestamp": "2025-11-19T08:34:24.120941+00:00",
+      "average": 4999999
+    },
+    {
+      "user_id": "321305548618334211",
+      "recorded_by": "MR-Striper",
+      "message_id": 1440748802792230914,
+      "timestamp": "2025-11-19T17:08:56.254763+00:00",
+      "average": 4399980
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440731871444074516,
+      "timestamp": "2025-11-19T17:08:58.756517+00:00",
+      "average": 4887998
+    },
+    {
+      "user_id": "321305548618334211",
+      "recorded_by": "MR-Striper",
+      "message_id": 1441051338317238424,
+      "timestamp": "2025-11-20T13:06:24.206905+00:00",
+      "average": 4065780
+    },
+    {
+      "user_id": "321305548618334211",
+      "recorded_by": "MR-Striper",
+      "message_id": 1441402435582165093,
+      "timestamp": "2025-11-21T14:11:23.471809+00:00",
+      "average": 3978600
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1443483764008423494,
+      "timestamp": "2025-11-27T08:57:10.507853+00:00",
+      "average": 4000000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1446661650454413343,
+      "timestamp": "2025-12-06T10:27:57.682511+00:00",
+      "average": 3568776
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1456572591769780337,
+      "timestamp": "2026-01-05T02:13:03.676553+00:00",
+      "average": 4702180
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1457618640965992449,
+      "timestamp": "2026-01-05T06:16:05.404627+00:00",
+      "average": 4166221
+    }
+  ],
+  "dungeons essence__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1436764528736993300,
+      "timestamp": "2025-11-08T17:09:17.432954+00:00",
+      "average": 405799
+    }
+  ],
+  "brilliant snow flower magic stone extract__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438370360746705047,
+      "timestamp": "2025-11-13T09:35:51.884258+00:00",
+      "average": 1600000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438836715346460682,
+      "timestamp": "2025-11-14T10:23:25.263266+00:00",
+      "average": 1775000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439161315359985856,
+      "timestamp": "2025-11-15T07:53:16.396002+00:00",
+      "average": 1616000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439628121312596040,
+      "timestamp": "2025-11-16T14:48:10.688586+00:00",
+      "average": 1533333
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440254690376810557,
+      "timestamp": "2025-11-18T08:25:44.777355+00:00",
+      "average": 1800000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440786458926383244,
+      "timestamp": "2025-11-19T19:31:00.158743+00:00",
+      "average": 5000000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440978907158417438,
+      "timestamp": "2025-11-20T13:06:26.152480+00:00",
+      "average": 5900000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1441053439772725271,
+      "timestamp": "2025-11-20T13:11:53.522737+00:00",
+      "average": 4220000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1443483554662187028,
+      "timestamp": "2025-11-27T08:57:13.409117+00:00",
+      "average": 3200000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1445394378301374527,
+      "timestamp": "2025-12-02T12:41:13.789539+00:00",
+      "average": 3662500
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1457617544973123701,
+      "timestamp": "2026-01-05T06:11:43.988713+00:00",
+      "average": 991975
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1458370899622232231,
+      "timestamp": "2026-01-07T11:24:31.511895+00:00",
+      "average": 1100000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1460395898940035105,
+      "timestamp": "2026-01-19T11:09:48.077360+00:00",
+      "average": 1297800
+    }
+  ],
+  "shining snow flower magic stone extract__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438370191334576139,
+      "timestamp": "2025-11-13T09:35:54.294436+00:00",
+      "average": 522000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439161266475368541,
+      "timestamp": "2025-11-15T07:53:04.825722+00:00",
+      "average": 523400
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439628059203473581,
+      "timestamp": "2025-11-16T14:47:56.125758+00:00",
+      "average": 498000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440254625830797415,
+      "timestamp": "2025-11-18T08:25:46.858600+00:00",
+      "average": 500000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440786417554030763,
+      "timestamp": "2025-11-19T19:30:50.279261+00:00",
+      "average": 350000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1441053380968452271,
+      "timestamp": "2025-11-20T13:11:39.502007+00:00",
+      "average": 438750
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1443483513645961400,
+      "timestamp": "2025-11-27T08:57:14.783415+00:00",
+      "average": 180000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1445394107726823595,
+      "timestamp": "2025-12-02T12:40:09.421392+00:00",
+      "average": 530000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1458370878772609036,
+      "timestamp": "2026-01-07T11:24:33.044713+00:00",
+      "average": 2500000.0
+    }
+  ],
+  "snow flower magic stone extract__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438369967627178035,
+      "timestamp": "2025-11-13T09:35:57.746622+00:00",
+      "average": 342500
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438836597868068894,
+      "timestamp": "2025-11-14T10:23:26.946091+00:00",
+      "average": 280000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439161204995002398,
+      "timestamp": "2025-11-15T07:52:50.044086+00:00",
+      "average": 266000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439627972519792773,
+      "timestamp": "2025-11-16T14:47:35.592817+00:00",
+      "average": 246800
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440254079245750394,
+      "timestamp": "2025-11-18T08:25:48.835342+00:00",
+      "average": 231900
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440786388264947884,
+      "timestamp": "2025-11-19T19:30:43.299047+00:00",
+      "average": 160000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1441053302077784104,
+      "timestamp": "2025-11-20T13:11:20.603426+00:00",
+      "average": 147300
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1443483490527084564,
+      "timestamp": "2025-11-27T08:57:16.165620+00:00",
+      "average": 70000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1445393897701380146,
+      "timestamp": "2025-12-02T12:39:19.855145+00:00",
+      "average": 141553
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1458370852545499188,
+      "timestamp": "2026-01-07T11:24:35.098700+00:00",
+      "average": 800000.0
+    }
+  ],
+  "brilliant snow flower magic stone__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438369621433647146,
+      "timestamp": "2025-11-13T09:35:59.708036+00:00",
+      "average": 1440000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438836509636689960,
+      "timestamp": "2025-11-14T10:23:28.950534+00:00",
+      "average": 1316666
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439161116646178866,
+      "timestamp": "2025-11-15T07:52:29.067745+00:00",
+      "average": 946800
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439627769163288716,
+      "timestamp": "2025-11-16T14:46:46.280104+00:00",
+      "average": 1160000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440253921170821120,
+      "timestamp": "2025-11-18T08:25:50.893649+00:00",
+      "average": 1000000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440786317989380098,
+      "timestamp": "2025-11-19T19:30:26.629766+00:00",
+      "average": 1500000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1441053191834697748,
+      "timestamp": "2025-11-20T13:10:54.288491+00:00",
+      "average": 990000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1443483405688897627,
+      "timestamp": "2025-11-27T08:57:20.640503+00:00",
+      "average": 850000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1445393593366876170,
+      "timestamp": "2025-12-02T12:38:06.582661+00:00",
+      "average": 1883333
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1457617610744135802,
+      "timestamp": "2026-01-05T06:11:59.921511+00:00",
+      "average": 1124800
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1458370775084957809,
+      "timestamp": "2026-01-07T11:24:38.668766+00:00",
+      "average": 1100000.0
+    }
+  ],
+  "shining snow flower magic stone__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438369532178726982,
+      "timestamp": "2025-11-13T09:36:01.696155+00:00",
+      "average": 218889
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438836435502370966,
+      "timestamp": "2025-11-14T10:23:31.134006+00:00",
+      "average": 199600
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439160964732682240,
+      "timestamp": "2025-11-15T07:51:53.800842+00:00",
+      "average": 182900
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439627696442183863,
+      "timestamp": "2025-11-16T14:46:39.574426+00:00",
+      "average": 204000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440253794934980659,
+      "timestamp": "2025-11-18T08:25:52.943121+00:00",
+      "average": 224000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440786289292087306,
+      "timestamp": "2025-11-19T19:30:19.711404+00:00",
+      "average": 210000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1441053119675895938,
+      "timestamp": "2025-11-20T13:10:37.184081+00:00",
+      "average": 208780
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1443483379667304671,
+      "timestamp": "2025-11-27T08:57:22.899795+00:00",
+      "average": 200000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1458370747440431237,
+      "timestamp": "2026-01-07T11:24:41.262903+00:00",
+      "average": 210000.0
+    }
+  ],
+  "snow flower magic stone__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438369276384776233,
+      "timestamp": "2025-11-13T09:36:04.095018+00:00",
+      "average": 47600
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438836360810332210,
+      "timestamp": "2025-11-14T10:23:33.297338+00:00",
+      "average": 42100
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439160881970810963,
+      "timestamp": "2025-11-15T07:51:45.182404+00:00",
+      "average": 7518
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440253622662336523,
+      "timestamp": "2025-11-18T08:25:55.129641+00:00",
+      "average": 40698
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440253478273552394,
+      "timestamp": "2025-11-18T08:25:57.955284+00:00",
+      "average": 7300
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440786206399922347,
+      "timestamp": "2025-11-19T19:30:00.093821+00:00",
+      "average": 7200.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440786257151262873,
+      "timestamp": "2025-11-19T19:30:12.038420+00:00",
+      "average": 40000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1441052890708836373,
+      "timestamp": "2025-11-20T13:09:42.811064+00:00",
+      "average": 7469
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1441052994689831036,
+      "timestamp": "2025-11-20T13:10:08.262052+00:00",
+      "average": 37968
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1443483352349933640,
+      "timestamp": "2025-11-27T08:57:24.348390+00:00",
+      "average": 40000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1443483320548724851,
+      "timestamp": "2025-11-27T08:57:25.781869+00:00",
+      "average": 7900.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1445393293096521779,
+      "timestamp": "2025-12-02T12:36:54.444101+00:00",
+      "average": 10000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1445393343453593794,
+      "timestamp": "2025-12-02T12:37:07.211731+00:00",
+      "average": 50770
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1458370708764623020,
+      "timestamp": "2026-01-07T11:24:43.069143+00:00",
+      "average": 50000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1458370665953366171,
+      "timestamp": "2026-01-07T11:24:44.817262+00:00",
+      "average": 11000.0
+    }
+  ],
+  "snow flower magic stone__thor": [
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1438542354888917102,
+      "timestamp": "2025-11-13T14:57:31.615359+00:00",
+      "average": 49983
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1439283288564039810,
+      "timestamp": "2025-11-15T15:57:55.577818+00:00",
+      "average": 42500
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1439990560978108456,
+      "timestamp": "2025-11-17T14:48:23.536224+00:00",
+      "average": 39999
+    }
+  ],
+  "zeny sale__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438837394190241915,
+      "timestamp": "2025-11-14T10:26:06.541428+00:00",
+      "average": 8.2
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439162170108547092,
+      "timestamp": "2025-11-15T07:56:39.506890+00:00",
+      "average": 7.5
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439628898521321482,
+      "timestamp": "2025-11-16T14:51:14.874192+00:00",
+      "average": 7.5
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440618841221759111,
+      "timestamp": "2025-11-19T08:34:14.530206+00:00",
+      "average": 7.5
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1441053796007411915,
+      "timestamp": "2025-11-20T13:13:17.767707+00:00",
+      "average": 7.5
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1443483816030240809,
+      "timestamp": "2025-11-27T08:57:08.924917+00:00",
+      "average": 8.0
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1453655127452811410,
+      "timestamp": "2026-01-05T02:13:09.482359+00:00",
+      "average": 9.4
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1457617716209782857,
+      "timestamp": "2026-01-05T06:12:24.215133+00:00",
+      "average": 10.0
+    }
+  ],
+  "zeny buy__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438837478218793063,
+      "timestamp": "2025-11-14T10:26:26.577321+00:00",
+      "average": 7.5
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439162213993676882,
+      "timestamp": "2025-11-15T07:56:49.986865+00:00",
+      "average": 7.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1439628938237181994,
+      "timestamp": "2025-11-16T14:51:24.452002+00:00",
+      "average": 6.8
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440255460610670612,
+      "timestamp": "2025-11-18T08:25:29.233071+00:00",
+      "average": 7.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440618943600656404,
+      "timestamp": "2025-11-19T08:34:13.051318+00:00",
+      "average": 6.8
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1441053877750202432,
+      "timestamp": "2025-11-20T13:13:37.351514+00:00",
+      "average": 6.8
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1443483834606948372,
+      "timestamp": "2025-11-27T08:57:07.408180+00:00",
+      "average": 7.5
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1457617743657308210,
+      "timestamp": "2026-01-05T06:12:30.696833+00:00",
+      "average": 9.5
+    }
+  ],
+  "slivervine__debug": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1438837668308848692,
+      "timestamp": "2025-11-14T10:27:12.922918+00:00",
+      "average": 8450299
+    }
+  ],
+  "ice flower magic stone (fixed casting)__thor": [
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1438919101656465448,
+      "timestamp": "2025-11-14T15:50:48.090123+00:00",
+      "average": 25000000
+    }
+  ],
+  "snow flower magic ore__thor": [
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1439283192514478122,
+      "timestamp": "2025-11-15T15:57:32.651164+00:00",
+      "average": 8937
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1447478836085129286,
+      "timestamp": "2025-12-08T06:44:08.576228+00:00",
+      "average": 19577
+    }
+  ],
+  "shining snow flower magic stone__thor": [
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1439283457627914322,
+      "timestamp": "2025-11-15T15:58:35.830779+00:00",
+      "average": 238611
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1439990662480138354,
+      "timestamp": "2025-11-17T14:48:47.418054+00:00",
+      "average": 163250
+    }
+  ],
+  "brilliant snow flower magic stone__thor": [
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1439283667439718500,
+      "timestamp": "2025-11-15T15:59:25.964974+00:00",
+      "average": 949980
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1439990757346771015,
+      "timestamp": "2025-11-17T14:49:09.954619+00:00",
+      "average": 849980
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1447479521728139395,
+      "timestamp": "2025-12-08T06:46:52.572725+00:00",
+      "average": 2966333
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1447612815870263397,
+      "timestamp": "2025-12-08T15:36:45.302870+00:00",
+      "average": 1912500
+    }
+  ],
+  "neutralized magical crystal__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440254942534172724,
+      "timestamp": "2025-11-18T08:25:38.842238+00:00",
+      "average": 455900
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440786365628547204,
+      "timestamp": "2025-11-19T19:30:37.942568+00:00",
+      "average": 555555.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1443483464145047642,
+      "timestamp": "2025-11-27T08:57:17.623992+00:00",
+      "average": 250000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1458370822807752850,
+      "timestamp": "2026-01-07T11:24:37.048002+00:00",
+      "average": 1000000.0
+    }
+  ],
+  "encroached magical crystal__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440254889442803845,
+      "timestamp": "2025-11-18T08:25:40.808393+00:00",
+      "average": 512000
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440786341527818431,
+      "timestamp": "2025-11-19T19:30:32.164433+00:00",
+      "average": 600000.0
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1443483437821329418,
+      "timestamp": "2025-11-27T08:57:19.077047+00:00",
+      "average": 250000.0
+    }
+  ],
+  "glacier extract__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440254789404332032,
+      "timestamp": "2025-11-18T08:25:42.857765+00:00",
+      "average": 88800
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1440786493286387732,
+      "timestamp": "2025-11-19T19:31:08.348420+00:00",
+      "average": 150000.0
+    }
+  ],
+  "zeny__debug": [
+    {
+      "timestamp": "2025-10-20T01:54:32.037545",
+      "average": 7.0,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429543256651337951
+    },
+    {
+      "timestamp": "2025-10-20T19:10:08.811332",
+      "average": 7.0,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1429803876650979389
+    },
+    {
+      "timestamp": "2025-10-21T12:02:03.669300",
+      "average": 7.0,
+      "recorded_by": "pat58152",
+      "user_id": "777936289731313674",
+      "message_id": 1430058530106249226
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1431297573737730119,
+      "timestamp": "2025-10-24T15:05:33.392462+00:00",
+      "average": 7.5
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1431689991716606145,
+      "timestamp": "2025-10-25T17:04:51.942712+00:00",
+      "average": 7.5
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1432731040367120394,
+      "timestamp": "2025-10-28T14:01:36.787582+00:00",
+      "average": 8.3
+    },
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1437365490027597825,
+      "timestamp": "2025-11-10T08:57:17.332185+00:00",
+      "average": 7.6
+    }
+  ],
+  "clock tuning device high (physical)__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1445398993508241509,
+      "timestamp": "2025-12-02T12:59:34.119134+00:00",
+      "average": 2350000
+    }
+  ],
+  "good evil crystal high (magical)__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1445399415170007131,
+      "timestamp": "2025-12-02T13:01:14.676895+00:00",
+      "average": 835975
+    }
+  ],
+  "good evil crystal high (physical)__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1445399479510630484,
+      "timestamp": "2025-12-02T13:01:30.158802+00:00",
+      "average": 2685553
+    }
+  ],
+  "clock tuning device high (magical)__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1445399623580782762,
+      "timestamp": "2025-12-02T13:02:04.187915+00:00",
+      "average": 2000000
+    }
+  ],
+  "snow flower petal__chaos": [
+    {
+      "user_id": "437502553362661381",
+      "recorded_by": "LikeToKiLL",
+      "message_id": 1446067553381253254,
+      "timestamp": "2025-12-04T09:16:12.133177+00:00",
+      "average": 26560
+    },
+    {
+      "user_id": "437502553362661381",
+      "recorded_by": "LikeToKiLL",
+      "message_id": 1446235330415169566,
+      "timestamp": "2025-12-05T05:17:16.547261+00:00",
+      "average": 27938
+    },
+    {
+      "user_id": "437502553362661381",
+      "recorded_by": "LikeToKiLL",
+      "message_id": 1446531834992263262,
+      "timestamp": "2025-12-06T10:28:00.051401+00:00",
+      "average": 28990
+    },
+    {
+      "user_id": "437502553362661381",
+      "recorded_by": "LikeToKiLL",
+      "message_id": 1446916491403595816,
+      "timestamp": "2025-12-06T17:29:34.754214+00:00",
+      "average": 27993
+    },
+    {
+      "user_id": "437502553362661381",
+      "recorded_by": "LikeToKiLL",
+      "message_id": 1447129788883140748,
+      "timestamp": "2025-12-07T07:59:56.949614+00:00",
+      "average": 29280
+    },
+    {
+      "user_id": "437502553362661381",
+      "recorded_by": "LikeToKiLL",
+      "message_id": 1447646694094409923,
+      "timestamp": "2025-12-08T17:51:09.278170+00:00",
+      "average": 26440
+    },
+    {
+      "user_id": "437502553362661381",
+      "recorded_by": "LikeToKiLL",
+      "message_id": 1447991026391318560,
+      "timestamp": "2025-12-09T16:44:21.086417+00:00",
+      "average": 26897
+    },
+    {
+      "user_id": "437502553362661381",
+      "recorded_by": "LikeToKiLL",
+      "message_id": 1451688446312845414,
+      "timestamp": "2025-12-20T04:26:34.893759+00:00",
+      "average": 22780
+    },
+    {
+      "user_id": "437502553362661381",
+      "recorded_by": "LikeToKiLL",
+      "message_id": 1457130283978457306,
+      "timestamp": "2026-01-05T02:13:00.229930+00:00",
+      "average": 18534
+    },
+    {
+      "user_id": "437502553362661381",
+      "recorded_by": "LikeToKiLL",
+      "message_id": 1453593826982629388,
+      "timestamp": "2026-01-05T02:13:11.425410+00:00",
+      "average": 16340
+    },
+    {
+      "user_id": "437502553362661381",
+      "recorded_by": "LikeToKiLL",
+      "message_id": 1452721506210676901,
+      "timestamp": "2026-01-05T02:13:15.026285+00:00",
+      "average": 23748
+    },
+    {
+      "user_id": "437502553362661381",
+      "recorded_by": "LikeToKiLL",
+      "message_id": 1452008628365164594,
+      "timestamp": "2026-01-05T02:13:19.308485+00:00",
+      "average": 23916
+    },
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1457700750602797162,
+      "timestamp": "2026-01-05T17:09:47.500988+00:00",
+      "average": 22400
+    }
+  ],
+  "snow flower petal__thor": [
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1446387130367475733,
+      "timestamp": "2025-12-05T06:26:04.759029+00:00",
+      "average": 36750
+    },
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1447209828622532699,
+      "timestamp": "2025-12-07T18:00:52.689249+00:00",
+      "average": 33725
+    }
+  ],
+  "item__debug": [
+    {
+      "user_id": "777936289731313674",
+      "recorded_by": "pat58152",
+      "message_id": 1447478632275513455,
+      "timestamp": "2025-12-08T06:43:19.252297+00:00",
+      "average": 1.0
+    }
+  ],
+  "fragment of goodwill__thor": [
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1453775062355284100,
+      "timestamp": "2026-01-05T02:13:05.834616+00:00",
+      "average": 157700
+    }
+  ],
+  "zeny sale__thor": [
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1453655263675416616,
+      "timestamp": "2026-01-05T02:13:07.664631+00:00",
+      "average": 8.4
+    }
+  ],
+  "death rune__debug": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1457616827076313109,
+      "timestamp": "2026-01-05T06:08:52.660381+00:00",
+      "average": 35000
+    }
+  ],
+  "bubble gum__chaos": [
+    {
+      "user_id": "219094309385797632",
+      "recorded_by": "Zinnia_",
+      "message_id": 1465545268283048007,
+      "timestamp": "2026-01-28T03:10:43.247927+00:00",
+      "average": 6990000
+    }
+  ],
+  "elunium__thor": [
+    {
+      "user_id": "317691652611506186",
+      "recorded_by": "Axlz",
+      "message_id": 1483508160730894488,
+      "timestamp": "2026-03-21T08:45:41.873574+00:00",
+      "average": 23525
+    }
+  ]
+}

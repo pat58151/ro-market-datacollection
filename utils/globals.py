@@ -1,0 +1,1 @@
+EASYOCR_READER = None

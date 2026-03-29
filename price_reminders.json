@@ -1,0 +1,16 @@
+{
+  "shadowdecon||thor||higher": [
+    {
+      "user_id": "777936289731313674",
+      "target_price": 70000.0,
+      "timestamp": "2025-10-28T10:08:38.277849+00:00"
+    }
+  ],
+  "shadowdecon||thor||lower": [
+    {
+      "user_id": "777936289731313674",
+      "target_price": 50000.0,
+      "timestamp": "2025-10-28T10:10:22.975983+00:00"
+    }
+  ]
+}
