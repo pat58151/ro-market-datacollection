@@ -2,3 +2,7 @@ config.json
 node_modules/
 __pycache__/
 .env
+price_reminders.json
+processed_messages.json
+item_prices.json
+item_prices.json.bak
